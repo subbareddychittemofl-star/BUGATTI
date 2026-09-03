@@ -1,0 +1,216 @@
+* {
+    margin: 0px;
+    overflow-x: hidden;
+    color: white;
+    padding: -20px;
+}
+
+video {
+    margin-top: 00px;
+    width: 1450px;
+    z-index: -10;
+    position: absolute;
+}
+
+.navbar {
+    display: flex;
+    color: white;
+    margin: 0px;
+    padding: -10px;
+}
+
+.aaba {
+    margin-right: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    gap: 130px;
+}
+
+h1 {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    text-decoration: none;
+    display: flex;
+    margin-top: 38px;
+    text-decoration: none;
+}
+
+h2 {
+    padding: 30px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.middle {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.destrier {
+    font-family: "Pinyon Script", cursive;
+    font-weight: 900;
+    font-size: 120px;
+    font-style: normal;
+
+}
+
+.astot {
+    display: absolute;
+    margin-top: -80px;
+}
+
+.discover {
+    margin-left: 180px;
+    border: 2px solid gray;
+    width: 210px;
+    padding: 10px;
+    border-radius: 18px;
+}
+
+.maison {
+    background: black;
+}
+
+
+#la {
+    font-size: 50px;
+    margin-top: 130px;
+    padding-left: 80px;
+    background-color: black;
+}
+
+.aaabbb {
+    width: 100%;
+    background-color: black;
+}
+
+.labugati {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+#dis {
+    font-size: 30px;
+    margin-left: 53px;
+}
+
+.lear {
+    font-size: 20px;
+    margin-left: 155px;
+}
+
+#hitory {
+    font-size: 30px;
+    margin-left: 115px;
+}
+
+.history {
+    font-size: 20px;
+    margin-left: 155px;
+}
+
+#career {
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+.careers {
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.secondvideo {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.solitire {
+    font-family: "Pinyon Script", cursive;
+    font-weight: 900;
+    font-size: 120px;
+    font-style: normal;
+
+}
+
+.rooted {
+    display: absolute;
+    margin-top: -80px;
+    margin-left: 70px;
+}
+
+.solitier {
+    margin-left: 180px;
+    border: 2px solid gray;
+    width: 260px;
+    padding: 10px;
+    border-radius: 18px;
+}
+
+.title {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.titleh1 {
+    font-size: 60px;
+    background-color: black;
+    font-family: "Momo Signature", cursive;
+    font-weight: 400;
+    font-style: normal;
+    height: 300px;
+    margin-top: 150px;
+
+}
+
+/* This is a comment */
+.footerf {
+    background-color: #131313;
+}
+
+.footerdiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    padding: 10px;
+}
+
+.fotterss {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.h4 {
+    padding: 40px;
+}
+
+.logodiv {
+    padding: 40px;
+}
+
+.logos {
+    display: flex;
+    gap: 30px;
+}
