@@ -1,0 +1,169 @@
+* {
+    margin: 0px;
+    overflow-x: hidden;
+    color: white;
+    padding: -20px;
+}
+
+
+.navbar {
+    display: flex;
+    color: white;
+    margin: 0px;
+    padding: -10px;
+}
+
+.aaba {
+    margin-right: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    gap: 130px;
+}
+
+h1 {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    text-decoration: none;
+    display: flex;
+    margin-top: 38px;
+    text-decoration: none;
+}
+
+h2 {
+    padding: 30px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.middle {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.destrier {
+    font-family: "Pinyon Script", cursive;
+    font-weight: 900;
+    font-size: 120px;
+    font-style: normal;
+
+}
+
+.astot {
+    display: absolute;
+    margin-top: -80px;
+}
+
+.discover {
+    margin-left: 180px;
+    border: 2px solid gray;
+    width: 210px;
+    padding: 10px;
+    border-radius: 18px;
+}
+
+/*----background----*/
+.background_image1 {
+    background-image: url("career_logo.png");
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+}
+
+/*--join at bugatti---*/
+.joindiv {
+    background-color: black;
+    padding: 120px 250px 120px 250px;
+    font-size: 20px;
+}
+
+.joinp {
+    line-height: 2;
+}
+
+/*--career images--*/
+.hisrory1div {
+    background-color: black;
+    display: flex;
+    padding-top: 200px;
+}
+
+.history11 {
+    width: 500px;
+    padding: 100px 160px 0px 140px;
+}
+
+.firstpara {
+    line-height: 36px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.mainimagdiv {
+    padding-bottom: 150px;
+    background-color: black;
+    margin-bottom: -20px;
+}
+
+.whatwe {
+    font-size: 40px;
+    padding: 40px;
+}
+
+.what {
+    padding-bottom: 60px;
+    background-color: black;
+}
+
+/*-------foter-----*/
+
+
+
+.footerf {
+    background-color: #131313;
+
+}
+
+.footerdiv {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 0px;
+}
+
+.footerdivmain {
+    padding-top: 0px;
+}
+
+li {
+    padding: 10px;
+}
+
+.fotterss {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.h4 {
+    padding: 40px;
+}
+
+.logodiv {
+    padding: 40px;
+}
+
+.logos {
+    display: flex;
+    gap: 30px;
+}
