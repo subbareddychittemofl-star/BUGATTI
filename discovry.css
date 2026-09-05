@@ -1,0 +1,201 @@
+* {
+    margin: 0px;
+    overflow-x: hidden;
+    color: white;
+    padding: -20px;
+}
+
+video {
+    margin-top: 00px;
+    width: 1450px;
+    z-index: -10;
+    position: absolute;
+}
+
+.bugatti_head {
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    color: white;
+    margin: 0px;
+    padding: -10px;
+}
+
+.aaba {
+    margin-right: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    gap: 130px;
+}
+
+h1 {
+    color: black;
+    text-decoration: none;
+}
+
+.logo {
+    text-decoration: none;
+    display: flex;
+    margin-top: 38px;
+    text-decoration: none;
+}
+
+h2 {
+    padding: 30px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.middle {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.destrier {
+    font-family: "Pinyon Script", cursive;
+    font-weight: 900;
+    font-size: 120px;
+    font-style: normal;
+
+}
+
+.astot {
+    display: absolute;
+    margin-top: -80px;
+}
+
+.discover {
+    margin-left: 280px;
+    border: 2px solid black;
+    width: 230px;
+    padding: 10px;
+    border-radius: 18px;
+    color: black;
+    font-size: 20px;
+
+
+}
+
+.background_image {
+    background-image: url("discory_logo.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+}
+
+.astot {
+    color: green;
+    margin-left: 130px;
+}
+
+.founded {
+    background-color: black;
+    font-size: 50px;
+    padding: 200px 250px 100px 250px;
+}
+
+.dis_imges {
+    background-color: black;
+}
+
+.more_then {
+    background-color: black;
+}
+
+.more {
+    font-size: 30px;
+
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.more_thenp {
+    font-size: 20px;
+
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    padding: 20px 450px 90px 50px;
+
+}
+
+.discovery3 {
+    margin-left: 200px;
+}
+
+/*------------------------*footer-------------------------*/
+
+
+.footerf {
+    background-color: #131313;
+}
+
+.footer {
+    font-size: 40px;
+}
+
+.footerdiv {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+li {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.fotterss {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.h4 {
+    padding: 40px;
+    font-size: 20px;
+}
+
+.logodiv {
+    padding: 40px;
+    font-size: 20px;
+}
+
+.logos {
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.a2026 {
+    font-size: 30px;
+}
+
+.lconli {
+    padding-top: -50px;
+
+}
+
+.fa-brands {
+    margin-top: -50px;
+    padding-top: -50px;
+
+}
+
+.iconlia {
+    padding-top: -50px;
+    margin-top: -50px;
+}
