@@ -12,6 +12,10 @@ video {
     position: absolute;
 }
 
+.bugattih {
+    color: white;
+}
+
 .bugatti_head {
     color: white;
 }
@@ -87,7 +91,7 @@ a {
 
 }
 
-.background_image {
+.background_image1 {
     background-image: url("discory_logo.jpeg");
     background-position: center;
     background-size: cover;
@@ -101,7 +105,7 @@ a {
 
 .founded {
     background-color: black;
-    font-size: 50px;
+    font-size: 35px;
     padding: 200px 250px 100px 250px;
 }
 
@@ -111,6 +115,8 @@ a {
 
 .more_then {
     background-color: black;
+    padding-left: 80px;
+    padding-top: 50px;
 }
 
 .more {
@@ -123,6 +129,7 @@ a {
 
 .more_thenp {
     font-size: 20px;
+    line-height: 1.8;
 
     font-weight: 200;
     font-style: normal;
@@ -133,6 +140,12 @@ a {
 
 .discovery3 {
     margin-left: 200px;
+}
+
+.discory_last {
+    background: black;
+    margin-bottom: -10px;
+    padding-bottom: 70px;
 }
 
 /*------------------------*footer-------------------------*/
