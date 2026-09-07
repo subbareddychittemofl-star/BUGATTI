@@ -9,7 +9,7 @@ video {
     margin-top: 00px;
     width: 1450px;
     z-index: -10;
-    position: absolute;
+    position: fixed;
 }
 
 .navbar {
@@ -80,7 +80,7 @@ a {
 }
 
 .maison {
-    background: black;
+    background: transparent;
 }
 
 
@@ -88,17 +88,17 @@ a {
     font-size: 50px;
     margin-top: 130px;
     padding-left: 80px;
-    background-color: black;
+    background-color: transparent;
 }
 
 .aaabbb {
     width: 100%;
-    background-color: black;
+    background-color: transparent;
 }
 
 .labugati {
     width: 100%;
-    background-color: black;
+    background-color: transparent;
     display: flex;
     justify-content: space-around;
 }
@@ -164,7 +164,7 @@ a {
 }
 
 .title {
-    background-color: black;
+    background-color: transparent;
     display: flex;
     justify-content: center;
     justify-items: center;
@@ -173,7 +173,7 @@ a {
 
 .titleh1 {
     font-size: 60px;
-    background-color: black;
+    background-color: transparent;
     font-family: "Momo Signature", cursive;
     font-weight: 400;
     font-style: normal;
@@ -182,9 +182,18 @@ a {
 
 }
 
+/*--------animation---------*/
+.animationdiv {
+    transition: transform 2s;
+}
+
+.animation:hover {
+    transform: rotate(70dg);
+}
+
 /* This is a comment */
 .footerf {
-    background-color: #131313;
+    background-color: transparent;
 }
 
 .footerdiv {
@@ -214,3 +223,18 @@ li {
     display: flex;
     gap: 30px;
 }
+
+/* Small phones */
+@media (max-width: 375px) {}
+
+/* Normal phones */
+@media (min-width: 376px) and (max-width: 600px) {}
+
+/* Tablets */
+@media (min-width: 601px) and (max-width: 1024px) {}
+
+/* Laptops */
+@media (min-width: 1025px) and (max-width: 1440px) {}
+
+/* Large desktops */
+@media (min-width: 1441px) {}

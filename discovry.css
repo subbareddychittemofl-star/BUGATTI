@@ -3,7 +3,11 @@
     overflow-x: hidden;
     color: white;
     padding: -20px;
+
 }
+
+
+
 
 video {
     margin-top: 00px;
@@ -38,7 +42,7 @@ nav {
 }
 
 h1 {
-    color: black;
+    color:white;
     text-decoration: none;
 }
 
@@ -99,7 +103,7 @@ a {
 }
 
 .astot {
-    color: green;
+    color:white;
     margin-left: 130px;
 }
 
@@ -212,3 +216,71 @@ li {
     padding-top: -50px;
     margin-top: -50px;
 }
+
+/* Small phones */
+@media screen and (max-width: 375px) {
+
+    .destrier {
+        font-size: 50px;
+    }
+
+}
+
+
+/* Normal phones */
+@media screen and (min-width: 376px) and (max-width: 600px) {
+
+    .destrier {
+        font-size: 60px;
+    }
+
+}
+
+
+/* Tablets */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+
+    .destrier {
+        font-size: 80px;
+    }
+
+}
+
+
+/* Laptops */
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+
+    .destrier {
+        font-size: 100px;
+    }
+
+}
+
+
+/* Large desktops */
+@media screen and (min-width: 1441px) {
+
+    .destrier {
+        font-size: 120px;
+    }
+
+}
+
+/* Small phones */
+@media screen and (max-width: 375px) {}
+
+
+/* Normal phones */
+@media screen and (min-width: 376px) and (max-width: 600px) {}
+
+
+/* Tablets */
+@media screen and (min-width: 601px) and (max-width: 1024px) {}
+
+
+/* Laptops */
+@media screen and (min-width: 1025px) and (max-width: 1440px) {}
+
+
+/* Large desktops */
+@media screen and (min-width: 1441px) {}
